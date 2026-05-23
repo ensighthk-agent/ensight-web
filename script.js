@@ -6,18 +6,21 @@ const copy = {
     "hero.eyebrow": "AI-native applications from Hong Kong",
     "hero.title": "Building intelligent software for companies operating across markets.",
     "hero.text":
-      "Ensight HK designs and develops AI-native applications, agentic workflows, and modern digital systems while helping companies navigate technical trade, compliance, and market-entry questions between Mainland China and global markets.",
+      "Ensight HK designs and develops AI-native web, iOS, and Android applications, agentic workflows, and modern digital systems while helping companies navigate technical trade, compliance, and market-entry questions between Mainland China and global markets.",
     "hero.cta": "Start a conversation",
     "hero.secondary": "View services",
-    "hero.metricA": "R&D",
-    "hero.metricAText": "AI-native products",
+    "hero.metricA": "AI",
+    "hero.metricAText": "Web, iOS and Android apps",
     "hero.metricB": "HK",
     "hero.metricBText": "Cross-border gateway",
     "services.eyebrow": "What we do",
-    "services.title": "AI product engineering with cross-border context",
+    "services.title": "AI product engineering across web and mobile",
     "services.tech.title": "Technology R&D and Consulting",
     "services.tech.text":
       "We build AI-native applications, agent-assisted workflows, and robust system architectures, pairing software development with technical feasibility analysis for enterprise transformation.",
+    "services.mobile.title": "iOS and Android AI-Native Apps",
+    "services.mobile.text":
+      "We design and ship mobile AI products with native user experiences, applied intelligence, and production-ready app delivery, including consumer-facing applications such as PerkCue.",
     "services.cross.title": "Cross-Border Business Solutions",
     "services.cross.text":
       "Using Hong Kong's advantages as a free trade port, we advise Mainland and overseas companies on technology trade, cross-border data compliance, and market-entry strategy.",
@@ -45,18 +48,21 @@ const copy = {
     "hero.eyebrow": "立足香港的 AI 原生应用",
     "hero.title": "为跨市场运营的企业构建智能软件。",
     "hero.text":
-      "Ensight HK 设计并开发 AI 原生应用、智能体工作流与现代数字化系统，同时协助企业处理内地与海外市场之间的技术贸易、合规与市场准入问题。",
+      "Ensight HK 设计并开发 AI 原生 Web、iOS 与 Android 应用、智能体工作流与现代数字化系统，同时协助企业处理内地与海外市场之间的技术贸易、合规与市场准入问题。",
     "hero.cta": "开始沟通",
     "hero.secondary": "查看服务",
-    "hero.metricA": "研发",
-    "hero.metricAText": "AI 原生产品",
+    "hero.metricA": "AI",
+    "hero.metricAText": "Web、iOS 与 Android 应用",
     "hero.metricB": "香港",
     "hero.metricBText": "跨境业务枢纽",
     "services.eyebrow": "我们的服务",
-    "services.title": "具备跨境视角的 AI 产品工程",
+    "services.title": "覆盖 Web 与移动端的 AI 产品工程",
     "services.tech.title": "科技研发与咨询",
     "services.tech.text":
       "构建 AI 原生应用、智能体辅助工作流与稳健系统架构，并结合软件开发与技术可行性分析，助力企业智能化转型。",
+    "services.mobile.title": "iOS 与 Android AI 原生应用",
+    "services.mobile.text":
+      "设计并交付具备原生体验、应用智能与生产级发布能力的移动端 AI 产品，包括 PerkCue 这类面向消费者的应用。",
     "services.cross.title": "跨境商务解决方案",
     "services.cross.text":
       "利用香港自由贸易港优势，为内地与海外企业提供技术贸易、跨境数据合规咨询及市场准入策略。",
